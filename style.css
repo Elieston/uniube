@@ -1,0 +1,135 @@
+/* Estilo para o body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.tabbortle {
+
+    width: 95% !important;
+    margin: auto;
+    background-color: #ffffff2c;
+    color: #202122;
+    border: 1px solid #02060a;
+    border-collapse: collapse;
+}
+
+.tittab {
+    text-align: center;
+    font-size: 170%;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: rgb(0, 0, 0);
+}
+
+.vector-feature-zebra-design-disabled .mw-body,
+.vector-feature-zebra-design-disabled .parsoid-body {
+    direction: ltr;
+}
+
+tabl {
+    text-align: justify;
+    background-color: slategrey;
+}
+
+td {
+    text-align: justify;
+}
+
+/* Estilo para o cabeçalho */
+h1 {
+    text-align: center;
+    background-color: #33333300;
+    color: #000000;
+    padding: 10px;
+    margin: 0;
+}
+
+/* Estilo para o logotipo */
+img {
+    display: block;
+    margin: 0 auto;
+}
+fieldset {
+    width: 500px; 
+    height: 100% ;
+  }
+
+
+nav.crumbs {
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    padding: 5px;
+}
+
+.fl {
+    text-align: center;
+
+}
+
+
+nav.crumbs a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+ol {
+    padding: 0;
+}
+
+li.crumb {
+    display: inline;
+    margin: 10 0px;
+}
+
+/* Estilo para os títulos */
+h2,
+h3 {
+    text-align: left;
+    margin-top: 5px;
+}
+
+.olink {
+    font-size: 100%;
+}
+
+/* Estilo para listas (unordered e ordered) */
+ul,
+ol {
+    padding-left: 40px;
+    font-size: 100%;
+}
+
+/* Estilo para os links */
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu-troggle {
+    display: none;
+    cursor: pointer;
+}
+
+.bar {
+    width: 30px;
+    height: 3px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
